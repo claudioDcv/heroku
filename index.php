@@ -4,7 +4,7 @@
  </head>
  <body>
  <?php 
- $db = new PDO('pgsql:dbname=mydb;host=localhost;user=myuser;password=mypass');
+ $db = new PDO('pgsql:dbname=d61aoijiddtf6q;host=localhost;port=5432user=ctkljaerhyndbi;password=yneO-NfDHuvhzZQ7UrXa_xBdu3');
  
  echo '<p>Hola Mundo</p>'; 
  ?>
